@@ -1,4 +1,3 @@
-@title off
 title 1.16.5 Minecraft Server Install Script
 @echo off
 echo Minecraft Server Install Script Version 1.16.5
